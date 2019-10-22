@@ -1,7 +1,7 @@
 # dataset
 
 * The Twitter dataset used to train and validate our models is a combination
-of the University of Michigan Kaggle competition dataset  and the \Twitter
+of the University of Michigan Kaggle competition dataset  and the "Twitter
 Sentiment corpus" created by Neik Sanders . In total, these datasets contain
 1,578,627 tweets labeled as either _positive_ or _negative_.
 You can get dataset [here](https://drive.google.com/open?id=1FNl79LtBEnhXx4NKoPubwThERuZC6WtP)! 
